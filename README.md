@@ -1,7 +1,5 @@
 # EchoFrame
-Prototype developed as part of my MSc thesis "EchoFrame: Exploring Augmented Reality as a Mediator of Movement Exploration in Dance Practices". 
-
-EchoFrame is a framework for implementing and mediating dance scores in AR (AR scores). The AR scores can be understood as frames for movement exploration that enables embodying different movement concepts. These frames serve as a spatial documentation of the reflections behind an improvisation. 
+The EchoFrame prototype is a framework for implementing and mediating dance scores in AR (AR scores). The AR scores can be understood as frames for movement exploration that enables embodying different movement concepts. These frames serve as a spatial documentation of the reflections behind an improvisation. 
 
 The aim of EchoFrame was to design a tool for dance improvisation that enables the development of intuitive, spatial and dynamic dance scores. These scores can be continuously interpreted, re-enacted and explored by different bodies, in different contexts and at different times. 
 
@@ -40,7 +38,7 @@ Instructions to run and access EchoFrame
 There are two ways to run and access *EchoFrame*. (1) Through the website, where *EchoFrame* is hosted or (2) running the code on your device by cloning the GitHub repository.
 
 (1) Website:
-*EchoFrame* can be accessed from the Chrome browser on an Android phone by following this link: https://nannaringbo.github.io/EchoFrame/.
+*EchoFrame* can be accessed from the Chrome browser on an Android phone by following this link: https://research-prototype.github.io/EchoFrame/.
 
 (2) GitHub Repository:
 If you want to run *EchoFrame* on your own device, follow the steps outlined below: 
